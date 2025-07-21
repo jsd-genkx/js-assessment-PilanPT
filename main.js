@@ -1,5 +1,6 @@
 "use strict";
 // JS Assessment: Find Your Hat //
+//For commit afternoon
 import promptSync from "prompt-sync";
 import clear from "clear-screen";
 
