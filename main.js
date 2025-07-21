@@ -41,3 +41,4 @@ const newGame = new Field([
 	["░", "^", "░"],
 ]);
 newGame.print();
+// comment checkin
